@@ -1,0 +1,43 @@
+{
+  "name": "Ranjesh Yadav",
+  "headline": "B.Tech CSE (AI & ML) Student | Full Stack Developer | Problem Solver",
+  "bio": "Ranjesh Yadav is a B.Tech CSE (AI & ML) student and full-stack developer who enjoys building practical web and AI-powered solutions.",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Java",
+    "C++",
+    "MongoDB",
+    "MySQL",
+    "Git",
+    "Tailwind CSS"
+  ],
+  "projects": [
+    {
+      "name": "EXAMLOCK",
+      "description": "Secure multi-stage exam paper distribution with encryption, AI proctoring and audit logging."
+    },
+    {
+      "name": "AI Chatbot",
+      "description": "A conversational assistant concept for answering questions and presenting useful information."
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "Animated responsive portfolio with theme switching, editing and an interactive assistant."
+    }
+  ],
+  "education": [
+    "B.Tech in CSE (AI & ML)",
+    "12th (PCM)",
+    "Diploma in CSE"
+  ],
+  "contact": {
+    "email": "your-email@example.com",
+    "location": "Uttar Pradesh, India",
+    "social": "@yourusername"
+  }
+}
